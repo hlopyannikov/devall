@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">PHamlP Support</lang>
+    </name>
+    <author>
+        <lang name="default">Alexey Yelizarov</lang>
+    </author>
+    <homepage>http://devall.ru</homepage>
+    <settings></settings>
+    <version>0.0.1</version>
+    <requires>
+        <livestreet>0.4.2</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default"></lang>
+        <lang name="russian">Поддержка haml/sass благодаря библиотеки PHamlP</lang>
+    </description>
+</plugin>

@@ -1,0 +1,3 @@
+// Ссылки
+@linkColor:         #0069d6;
+@linkColorHover:    darken(@linkColor, 15);
